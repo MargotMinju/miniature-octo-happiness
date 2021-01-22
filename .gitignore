@@ -1,3 +1,9 @@
+*.pptx 
+#means to ignore all powerpoints
+
+#Ignore stupid script
+stupid_script.R
+
 # History files
 .Rhistory
 .Rapp.history
@@ -37,3 +43,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
